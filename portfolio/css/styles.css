@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+p{
+    line-height: 26px;
+}
+
+@font-face {
+    font-family: 'Fira Code';
+    src: url('./fonts/fira-code/FiraCode-Regular.otf') format('opentype'),
+         url('./fonts/fira-code/FiraCode-Light.otf') format('opentype'),
+         url('./fonts/fira-code/FiraCode-Medium.otf') format('opentype'),
+         url('./fonts/fira-code/FiraCode-Bold.otf') format('opentype'),
+         url('./fonts/fira-code/FiraCode-Retina.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Fira Code';
+    src: url('./fonts/fira-code/FiraCode-Bold.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Fira Code';
+    src: url('./fonts/fira-code/FiraCode-Light.otf') format('opentype');
+    font-weight: 300; /* Light */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Fira Code';
+    src: url('./fonts/fira-code/FiraCode-Medium.otf') format('opentype');
+    font-weight: 500; /* Medium */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Fira Code';
+    src: url('./fonts/fira-code/FiraCode-Retina.otf') format('opentype');
+    font-weight: 600; /* Retina */
+    font-style: normal;
+}
