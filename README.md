@@ -1,8 +1,8 @@
-![app logo](./media/logoFullText_v2.svg)
+![app logo](./img/logoFullText_v2.svg)
 
 This is the repository for my portFolio
 
-![app screnn](./media/screenApp.png)
+![app screnn](./img/screenApp.png)
 
 ## ️Setup
 
@@ -28,4 +28,4 @@ To install this project, follow these steps:
 
 This project was created by b_bel. Connect with me on [GitHub](https://github.com/https://github.com/hardcodeur) and [LinkedIn](https://www.linkedin.com/in/bilal-belmehdi/)  to learn more about my projects and professional background.
 
-![author logo](./media/author_logo.svg)
+![author logo](./img/author_logo.svg)
