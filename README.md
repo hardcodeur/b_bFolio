@@ -1,6 +1,6 @@
 # b_bFolio
 
-![app logo](./media/screenApp.png)
+![app logo](./media/logoFullText_v2.svg)
 
 This is the repository for my portFolio
 
@@ -29,3 +29,5 @@ To install this project, follow these steps:
 **b_bel**
 
 This project was created by b_bel. Connect with me on [GitHub](https://github.com/https://github.com/hardcodeur) and [LinkedIn](https://www.linkedin.com/in/bilal-belmehdi/)  to learn more about my projects and professional background.
+
+![author logo](./media/author_logo.svg)
