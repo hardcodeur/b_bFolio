@@ -1,6 +1,4 @@
-# b_bFolio
-
-![app logo](./media/logoFullText_v2.svg)
+[app logo](./media/logoFullText_v2.svg)
 
 This is the repository for my portFolio
 
